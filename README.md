@@ -2,7 +2,7 @@
 
 Dies ist die Dokumentation für das Abschlussprojekt in Algorithmische Grundlagen für das Wintersemester 2017.
 
-Die Aufgabe war es für Texte Signaturen zu entwickeln, diese dann mit anderen Signaturen zu vergleichen und die ähnlichsten Texte darzustellen. 
+Die Aufgabe war es für Texte Signaturen zu entwickeln, diese dann mit anderen Signaturen zu vergleichen und die ähnlichsten Texte darzustellen. Eine genauere Dokumentation kann unter https://ungeschneuer.github.io/similiar_text_checker/ gefunden werden. 
 
 Das Programm benötigt Python 3.6.1, sowie die Pakete tkinter, platform, os, re und shelve.
 
